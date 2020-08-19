@@ -1,1 +1,9 @@
 /.idea/
+bower.json
+compilerconfig.json
+compilerconfig.json.defaults
+package.json
+package-lock.json
+/scss
+/dist
+/libs
