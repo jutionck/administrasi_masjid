@@ -7,3 +7,4 @@ package-lock.json
 /scss
 /dist
 /libs
+.DS_Store
